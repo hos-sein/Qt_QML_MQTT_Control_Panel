@@ -1,5 +1,49 @@
-node_modules/
-.next/
-dist/
+```
+# Build artifacts
+CMakeFiles/
+cmake-build-*/
+Makefile
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
 build/
+dist/
+
+# Qt specific
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.qm
+*.prl
+
+# Dependencies
+venv/
+.venv/
+.env
+.env.local
+*.env.*
+
+# Logs and temp files
 *.log
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+```node_modules/
+.next/

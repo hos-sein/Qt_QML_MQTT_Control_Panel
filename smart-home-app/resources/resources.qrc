@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Theme.qml</file>
+        <file>qml/SwitchCard.qml</file>
+        <file>qml/AddDeviceWizard.qml</file>
+        <file>qml/DiscoveryPopup.qml</file>
+        <file>qml/DashboardView.qml</file>
+        <file>qml/DeviceManagementView.qml</file>
+        <file>qml/SettingsView.qml</file>
+    </qresource>
+</RCC>
